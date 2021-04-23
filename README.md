@@ -23,18 +23,18 @@ In the practical session, before jumping in and starting to explore physical con
 
 ### Tentative Schedule:
 
-09:00 - 9:15 Introduction
-09:00 - 10:30 Scientific machine learning: incorporating physics contraints and other considerations
+09:00 - 9:15 Introduction    
+09:00 - 10:30 Scientific machine learning: incorporating physics contraints and other considerations    
 
-10:30 - 11:00 Break
+10:30 - 11:00 Break     
 
-11:00 - 12:30 Reproducibility in Scientific ML
+11:00 - 12:30 Reproducibility in Scientific ML     
 
 12:30 - 14:00 LUNCH BREAK
 
-14:00 - 14:30 Aegis dataset and framework
-14:30 - 15:00 Scientific machine learning development enviroment / tools
-15:00 - 15:30 Costumizing loss functions
+14:00 - 14:30 Aegis dataset and framework     
+14:30 - 15:00 Scientific machine learning development enviroment / tools     
+15:00 - 15:30 Costumizing loss functions     
 
 15:30 - 16:00 Break
 

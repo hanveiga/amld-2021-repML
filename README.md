@@ -24,7 +24,7 @@ In the practical session, before jumping in and starting to explore physical con
 ### Tentative Schedule:
 
 09:00 - 9:15 Introduction    
-09:00 - 10:30 Scientific machine learning: incorporating physics contraints and other considerations    
+09:15 - 10:30 Scientific machine learning: incorporating physics contraints and other considerations    
 
 10:30 - 11:00 Break     
 

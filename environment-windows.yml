@@ -1,0 +1,12 @@
+name: amld21repML
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - mlflow
+  - jupyterlab
+  - joblib
+  - matplotlib
+  - scikit-learn
+  - keras
+prefix: /home/mtimpe/anaconda3/envs/amld21repML

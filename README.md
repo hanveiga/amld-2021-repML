@@ -23,20 +23,15 @@ In the practical session, before jumping in and starting to explore physical con
 
 ### Tentative Schedule:
 
-09:00 - 9:15 Introduction    
-09:15 - 10:30 Scientific machine learning: incorporating physics contraints and other considerations    
-
-10:30 - 11:00 Break     
-
-11:00 - 12:30 Reproducibility in Scientific ML     
-
-12:30 - 14:00 LUNCH BREAK
-
-14:00 - 14:30 Aegis dataset and framework     
-14:30 - 15:00 Scientific machine learning development enviroment / tools     
-15:00 - 15:30 Costumizing loss functions     
-
-15:30 - 16:00 Break
-
-16:00 - 17:00 Free hacking 
-
+09:00 - 09:15	Virtual coffee / Introduction  (MT,MV)
+09:15 - 09:30	Virtual env set-up	(MT)
+09:30 - 10:00	Intro to AEGIS + Basic Example (Notebook 1)	(MT)
+10:00 - 10:30	Intro to rule based contraints (Notebook 3)	(MT)
+10:30 - 10:45	Coffee break	
+10:45 - 11:15	Reproducibility and Scientific Pipelines	(MV)
+11:15 - 12:00	Reproducibility tools (Notebook 2)          (MT)
+12:00 - 14:00 	Lunch break
+14:00 - 14:45	Encoding physical constraints	            (MV)
+14:45 - 15:00	Coffee break	
+15:00 - 16:00	Encoding physical constraints hands-on session (MV,MT)
+16:00 - 17:00	Free hacking / break-out rooms

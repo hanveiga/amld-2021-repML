@@ -13,9 +13,10 @@ Requirements:
 
 3. Pull the workshop GitHub repo (git clone https://github.com/hanveiga/amld-2021-repML.git). Navigate into the repo `cd amld-2021-repML`.
 
-4. Create the conda environment `conda env create -f environment.yml` and activate it `conda activate amld21`
+4. Create the conda environment `conda env create -f environment.yml` and activate it `conda activate amld21repML`.
 
-5. Fire up Jupyter `jupyter
+5. Fire up Jupyter `jupyter notebook` and you're ready to run the workshop notebooks!
+
 
 ### Windows
 
@@ -25,4 +26,6 @@ Requirements:
 
 3. Pull the workshop GitHub repo (git clone https://github.com/hanveiga/amld-2021-repML.git). Navigate into the repo `cd amld-2021-repML`.
 
-5. Create the conda environment `conda env create -f environment.yml`
+4. Create the conda environment `conda env create -f environment-windows.yml` and activate it `conda activate amld21repML`.
+
+5. Fire up Jupyter `jupyter notebook` and you're ready to run the workshop notebooks!

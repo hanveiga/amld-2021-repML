@@ -1,9 +1,10 @@
 name: amld21repML
 channels:
   - defaults
+  - conda-forge
+  - anaconda
 dependencies:
   - pandas
-  - mlflow
   - jupyterlab
   - joblib
   - matplotlib
